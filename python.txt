@@ -1,3 +1,4 @@
 Variables
 Loops 
 salam donyaa
+Git Clone and Pull
